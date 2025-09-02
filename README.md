@@ -25,8 +25,3 @@ This project demonstrates **Natural Language Processing (NLP)** basics by applyi
 
 ---
 
-## ⚙️ Installation  
-```bash
-git clone https://github.com/your-username/nlp-text-cleaning-vectorization.git
-cd nlp-text-cleaning-vectorization
-pip install -r requirements.txt
